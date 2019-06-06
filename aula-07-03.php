@@ -1,3 +1,5 @@
+
+<h1>OLA> besta</h1>
 <?php
  $valorDoComparacao ="Teste";
  $valorAReceber = $valorDoComparacao == "Teste" ? 10 : 0;
